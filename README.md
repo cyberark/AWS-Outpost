@@ -1,5 +1,4 @@
 # CyberArk AWS Outpost Network CloudFormation Template
-![](https://camo.githubusercontent.com/47f850e47ca1d9255912ac998e06250f0e1ae219/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43657274696669636174696f6e2532304c6576656c2d4365727469666965642d3643373537443f6c696e6b3d68747470733a2f2f6769746875622e636f6d2f637962657261726b2f636f6d6d756e6974792f626c6f622f6d61737465722f436f6e6a75722f636f6e76656e74696f6e732f63657274696669636174696f6e2d6c6576656c732e6d64)
 
 ## Overview
 
@@ -44,3 +43,10 @@ This integration ensures that the [CyberArk pas-on-cloud](https://github.com/cyb
 8. Use the [CyberArk pas-on-cloud](https://github.com/cyberark/pas-on-cloud/tree/master/aws) CFN templates to deploy your CyberArk CorePAS instances.
 
 [CyberArk GitHub page](https://github.com/cyberark/)
+
+## Contributing
+We welcome contributions of all kinds to this repository. For instructions on how to get started and descriptions
+of our development workflows, please see our [contributing guide](CONTRIBUTING.md).
+
+## License
+This repository is licensed under Apache License 2.0 - see [`LICENSE`](LICENSE) for more details.
